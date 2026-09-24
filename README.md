@@ -80,7 +80,7 @@ The goal is to make AI a native part of the development environment instead of t
 
 **Android & Languages**
 
-<img src="https://skillicons.dev/icons?i=androidstudio,android,kotlin,java,cpp,gradle,vscode,openai,anthropic,ollama,llamstudio,cursor,deepseek,qwenai,bash,shell,termux,powershell,nodejs,git" />
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,flutter,dart,html,linux,npm,cpp,gradle,vscode,powershell,nodejs" />
 
 **Development**
 
