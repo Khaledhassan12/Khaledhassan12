@@ -1,4 +1,4 @@
-##👋 Hello, I'M Kha led Hassan
+👋 Hello, I'M Kha led Hassan
 
 <div align="center">
   <a href="https://github.com/Khaledhassan12">
@@ -80,7 +80,7 @@ The goal is to make AI a native part of the development environment instead of t
 
 **Android & Languages**
 
-<img src="https://skillicons.dev/icons?i=androidstudio,android,kotlin,java,cpp,gradle" />
+<img src="https://skillicons.dev/icons?i=androidstudio,android,kotlin,java,cpp,gradle,vscode,openai,anthropic,ollama,llamstudio,cursor,deepseek,qwenai,bash,shell,termux,powershell,nodejs,git" />
 
 **Development**
 
